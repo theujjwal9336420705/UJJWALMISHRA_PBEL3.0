@@ -1,1 +1,2 @@
-blob:https://github.com/d80af5fc-d15b-40e1-85c1-e2cd0756cb1e
+
+"C:\Users\Ujjwal mishra\Desktop\iso_model.pkl"
