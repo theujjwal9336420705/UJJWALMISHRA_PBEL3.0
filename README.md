@@ -1,10 +1,10 @@
 # UJJWALMISHRA_PBEL3.0
 AI-Powered Financial Fraud Detection System
-# 💳 AI-Powered FinTech Fraud Detection System
+# 💳 AI-Powered Financial Fraud Detection System
 
 An intelligent real-time fraud detection system built using Machine Learning, Explainable AI, and Streamlit.
 
-This project simulates how modern fintech systems analyze transaction behavior and detect potentially fraudulent financial activities using ensemble learning and behavioral risk analysis.
+This project simulates how modern financial systems analyze transaction behavior and detect potentially fraudulent financial activities using ensemble learning and behavioral risk analysis.
 
 ---
 
