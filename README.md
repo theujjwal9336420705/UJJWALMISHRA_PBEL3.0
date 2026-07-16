@@ -152,14 +152,10 @@ The objective of this project is to demonstrate how AI and Machine Learning can 
 
 ---
 
-# Demo Video link
-
-https://youtu.be/pfk8SXEbhGI
----
 
 # 👨‍💻 Author
 
-Piyush Nandre
+ujjjwal mishra
 
 ---
 
