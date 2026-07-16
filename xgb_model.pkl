@@ -1,1 +1,1 @@
-blob:https://github.com/65477b57-1c03-4052-b1f3-30922e681763
+"C:\Users\Ujjwal mishra\Desktop\xgb_model.pkl"
